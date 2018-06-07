@@ -2,7 +2,7 @@
 
 A collection of emojis I have made for Discord in the style of Twimoji where they have similar counterparts. All src files are .xcf files as all of these have been made in GIMP.
 
-<img alt="trans heart" height="80" src="https://gitlab.roxxers.xyz/roxxers/pride-emoijis/raw/master/Pride%20Hearts/img/transheart.png"/>
+<img alt="trans heart" height="80" src="https://gitlab.roxxers.xyz/roxxers/pride-emojis/raw/master/Pride%20Hearts/img/transheart.png"/>
 
 ## Origin
 
